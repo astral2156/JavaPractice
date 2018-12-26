@@ -1,5 +1,5 @@
 # JavaPractice
-Java Winter Lecture
+## Java Winter Lecture
 
 
 <img width="300" src="https://user-images.githubusercontent.com/37032956/50432200-7c8aa380-0913-11e9-9231-8dabd99f555a.PNG">
