@@ -25,7 +25,7 @@ import javax.swing.JToolBar;
 
 public class MyGUI extends JFrame {
 	
-	private String root= ""; 
+	private String root= "";
 	
 	public MyGUI() {
 
@@ -35,7 +35,7 @@ public class MyGUI extends JFrame {
 		BufferedReader reader = null;
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setTitle("툴바 만들기");
+		setTitle("Note Pad");
 		this.setLayout(new FlowLayout());
 
 		JToolBar toolBar = new JToolBar();
