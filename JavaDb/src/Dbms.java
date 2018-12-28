@@ -126,7 +126,6 @@ public class Dbms {
 			// 레코드들은 ResultSet 객체에 추가된다.
 			printList();
 
-			//pstmt.close();
 		} catch (ClassNotFoundException e) {
 			System.out.println("드라이버 로딩 실패");
 		} catch (SQLException e) {
