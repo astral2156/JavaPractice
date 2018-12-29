@@ -203,7 +203,7 @@ public class AppMain extends JFrame {
 		contentPane.add(new myPanel2(), BorderLayout.SOUTH);
 
 		pdao = new ProductDAO();
-		setSize(800, 400); // 프레임 크기 300x150 설정
+		setSize(1200, 600); // 프레임 크기 300x150 설정
 		setVisible(true); // 화면에 프레임 출력
 		refreshData();
 
