@@ -9,3 +9,4 @@ layout setting example (12.24.2018)
 Simple Note pad. all menu is activated(12.26.2018) 
 
 
+<img width="500" src="https://user-images.githubusercontent.com/37032956/50548074-dd0a3f80-0c89-11e9-9477-cd988bd5473c.PNG">
