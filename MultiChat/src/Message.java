@@ -4,9 +4,7 @@ public class Message {
 	String id,  msg ,  type;
 	String password;
 	
-	public void Message(){
-		
-	}
+	
 	
 	public Message(String id, String msg ,String password, String type){
 		this.id = id;
@@ -14,6 +12,9 @@ public class Message {
 		this.password= password;
 		this.type = type;
 	
+	}
+
+	public Message() {
 	}
 
 	public String getId() {
