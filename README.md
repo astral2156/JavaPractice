@@ -6,6 +6,9 @@ For Java Practice. No pain no gain!
 ## Layout
 
 layout setting example (12.24.2018)
+
+
+
 <img width="500" src="https://user-images.githubusercontent.com/37032956/50432200-7c8aa380-0913-11e9-9231-8dabd99f555a.PNG">
 
 
